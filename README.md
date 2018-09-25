@@ -35,15 +35,15 @@ Pandas是基于Numpy构建的搞性能数据统计库。它提供了Series、Dat
 | Panel4D\PanelND | 已废弃 |
 
 相关操作：
-1、数据创建
-2、数据查看
-3、数据选择
-4、数据设置
-5、缺失值处理
-6、汇总与统计
-7、类 SQL 操作
-8、时间序列
-9、文件I\O
+1. 数据创建
+2. 数据查看
+3. 数据选择
+4. 数据设置
+5. 缺失值处理
+6. 汇总与统计
+7. 类 SQL 操作
+8. 时间序列
+9. 文件I\O
 
 参考
 [pandas](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
