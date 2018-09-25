@@ -18,6 +18,9 @@ Numpy 是Python的高性能科学计算基础库。
 * tofile()、fromfile()
 * save()、load()、savez()
 
+notes:
+一般使用 pandas 库读取和写入文件
+
 参考
 [numpy](https://github.com/donnemartin/data-science-ipython-notebooks#numpy)
 
@@ -99,6 +102,5 @@ notes:
 
 参考
 [matplotlib](https://github.com/donnemartin/data-science-ipython-notebooks#matplotlib)
-
 
 
