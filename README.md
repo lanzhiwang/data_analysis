@@ -4,17 +4,17 @@
 Numpy 是Python的高性能科学计算基础库。
 
 相关操作：
-1、数组的创建
-2、 shape 与 reshape 函数
-3、获取 ndarray 数组元素
-4、ufunc 函数（通用处理函数）
+1. 数组的创建
+2. shape 与 reshape 函数
+3. 获取 ndarray 数组元素
+4. ufunc 函数（通用处理函数）
 * Math operations（数学操作）
 * Trigonometric operations（三角函数操作）
 * Bit-twiddling functions（位操作）
 * Comparison functions（比较操作）
 * Floating functions（浮点数操作）
 
-5、文件I/O
+5. 文件I/O
 * tofile()、fromfile()
 * save()、load()、savez()
 
