@@ -1,28 +1,19 @@
 # 数据科学常用基础库
 
+- [Numpy](#Numpy)
+- [Pandas](#Pandas)
+- [Scipy](#Scipy)
+- [Matplotlib](#Matplotlib)
+
+
 ## Numpy
 Numpy 是Python的高性能科学计算基础库。
 
-相关操作：
-1. 数组的创建
-2. shape 与 reshape 函数
-3. 获取 ndarray 数组元素
-4. ufunc 函数（通用处理函数）
-* Math operations（数学操作）
-* Trigonometric operations（三角函数操作）
-* Bit-twiddling functions（位操作）
-* Comparison functions（比较操作）
-* Floating functions（浮点数操作）
-
-5. 文件I/O
-* tofile()、fromfile()
-* save()、load()、savez()
-
-notes:
-一般使用 pandas 库读取和写入文件
-
-参考
+Numpy 参考
 [numpy](https://github.com/donnemartin/data-science-ipython-notebooks#numpy)
+
+Numpy 基础
+![Numpy 基础](NumPy_base.png)
 
 ## Pandas
 Pandas是基于Numpy构建的搞性能数据统计库。它提供了Series、DataFrame、Panel三种数据结构。
@@ -100,7 +91,10 @@ notes:
 4. Axis 对象设置X、Y坐标的显示长度，刻度，标签等，返回 Tick 对象
 5. Tick 对象格式化刻度的样式等
 
-参考
+Matplotlib 参考
 [matplotlib](https://github.com/donnemartin/data-science-ipython-notebooks#matplotlib)
 
+Matplotlib 基础
+
+![Matplotlib 基础](Matplotlib_base.png)
 
