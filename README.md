@@ -1,10 +1,10 @@
 # 数据科学常用基础库
 
 - [数据科学常用基础库](#数据科学常用基础库)
-	- [Numpy](#Numpy)
-	- [Pandas](#Pandas)
-	- [Scipy](#Scipy)
-	- [Matplotlib](#Matplotlib)
+	- [Numpy](#numpy)
+	- [Pandas](#pandas)
+	- [Scipy](#scipy)
+	- [Matplotlib](#matplotlib)
 
 
 ## Numpy
