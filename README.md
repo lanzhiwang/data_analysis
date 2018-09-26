@@ -8,6 +8,7 @@
 
 
 ## Numpy
+
 Numpy 是Python的高性能科学计算基础库。
 
 Numpy 参考
@@ -17,6 +18,7 @@ Numpy 基础
 ![Numpy 基础](NumPy_base.png)
 
 ## Pandas
+
 Pandas是基于Numpy构建的搞性能数据统计库。它提供了Series、DataFrame、Panel三种数据结构。
 
 | 数据结构 | 说明 |
@@ -41,6 +43,7 @@ Pandas是基于Numpy构建的搞性能数据统计库。它提供了Series、Dat
 [pandas](https://github.com/donnemartin/data-science-ipython-notebooks#pandas)
 
 ## Scipy
+
 Scipy 是一款高性能数学计算函数库，包含常见的数学方法实现。
 Scipy 根据不同的功能应用划分为不同的子模块，子模块之间基本是相互独立的。
 
@@ -64,6 +67,7 @@ Scipy 根据不同的功能应用划分为不同的子模块，子模块之间�
 
 
 ## Matplotlib
+
 Matplotlib 是绘制高质量2D图像的Python库。
 1、面向过程作图
 面向过程作图是指利用 pyplot 包提供的函数来逐步绘图。步骤如下：
