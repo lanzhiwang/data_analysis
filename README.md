@@ -49,21 +49,31 @@ Scipy 根据不同的功能应用划分为不同的子模块，子模块之间�
 
 | 模块 | 说明 |
 |-------|---|
-| scipy.cluster | 矢量量化、k-means、层次聚类 |
-| scipy.constants | 物理与数学常数 |
-| scipy.fftpack | 傅里叶变换 |
-| scipy.interate | 积分程序 |
-| scipy.interpolate | 插值 |
-| scipy.io | 输入输出 |
-| scipy.linalg | 线性代数 |
-| scipy.ndimage | N 维数据包 |
-| scipy.odr | 正交距离回归 |
-| scipy.optimize | 优化 |
-| scipy.signal | 信号处理 |
-| scipy.sparse | 稀疏矩阵 |
-| scipy.spatial | 空间数据结构和算法 |
-| scipy.special | 特殊数学函数 |
-| scipy.stats | 统计 |
+| cluster | 矢量量化 / Kmeans |
+| fftpack | 离散傅立叶变换算法 |
+| integrate | 数值积分 |
+| interpolate | 插值 |
+| io | 输入输出 |
+| linalg | 线性代数 |
+| linalg.blas | Wrappers to BLAS library |
+| linalg.lapack | Wrappers to LAPACK library |
+| misc | Various utilities that don't have another home |
+| ndimage | n维图像包 |
+| odr | 正交距离回归 |
+| optimize | Optimization Tools |
+| signal | Signal Processing Tools |
+| signal.windows | Window functions |
+| sparse | 稀疏矩阵 |
+| sparse.linalg | 稀疏线性代数 |
+| sparse.linalg.dsolve | 线性求解 |
+| sparse.linalg.dsolve.umfpack | :Interface to the UMFPACK library: Conjugate Gradient Method (LOBPCG) |
+| sparse.linalg.eigen | 稀疏特征值求解 |
+| sparse.linalg.eigen.lobpcg | Locally Optimal Block Preconditioned                   Conjugate Gradient Method (LOBPCG) |
+| spatial | 空间数据结构和算法 |
+| special | Special functions |
+| stats | 统计功能 |
+
+![SciPy基础功能](SciPy_base.png)
 
 
 ## Matplotlib
